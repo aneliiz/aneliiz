@@ -1,7 +1,7 @@
 # Olá 👋, Sou a Ane Eliza
 
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas
-- 💻 Desenvolvento conhecimento de desenvolvimento Web e qualidade de software
+- 💻 Desenvolve conhecimento de desenvolvimento Web e qualidade de software
 
 ---
 
@@ -13,27 +13,6 @@
 - Testes de software (QA)
 - Automação de processos
 - Boas práticas de programação
-
----
-
-## 🛠️ Tecnologias e Ferramentas
-
-### Linguagens
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
-![HTML5](https://img.shields.io/badge/HTML5-orange)
-![CSS3](https://img.shields.io/badge/CSS3-blue)
-
-### Ferramentas
-![Git](https://img.shields.io/badge/Git-red)
-![GitHub](https://img.shields.io/badge/GitHub-black)
-![n8n](https://img.shields.io/badge/n8n-automation-purple)
-
-### Outros conhecimentos
-- Photoshop
-- Lightroom
-- Power BI
-- Testes manuais
-- Documentação de bugs
 
 ---
 
