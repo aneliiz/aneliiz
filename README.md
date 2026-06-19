@@ -1,7 +1,7 @@
 # Olá 👋, Sou a Ane Eliza
 
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas
-- 💻 Desenvolve conhecimento de desenvolvimento Web e qualidade de software
+- 💻 Desenvolvendo conhecimento de desenvolvimento Web e qualidade de software
 
 ---
 
